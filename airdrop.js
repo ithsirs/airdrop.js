@@ -1,5 +1,4 @@
-// npm init -y
-// npm install --save @solana/web3.js
+// npm init -y// npm install --save @solana/web3.js
 
 const { 
   Connection, 
